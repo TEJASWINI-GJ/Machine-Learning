@@ -1,1 +1,9 @@
-
+TASK:
+1. Data Importing
+2. Data Cleaning with lots of analysis 
+3. Feature Encoding
+4. Outlier Detection
+5. Feature Selection
+6. Automate our all the process that we have dump our model
+7. Checking accuracy of different algorithms
+8. Hyperparameter tuning
